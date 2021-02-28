@@ -73,7 +73,7 @@ endif
 " COMMON COLORS AND SETTINGS
 highlight PreProc guifg=#dfaf87 guibg=NONE gui=NONE ctermfg=180 ctermbg=NONE cterm=NONE
 "highlight Function guifg=#875f5f guibg=NONE gui=NONE ctermfg=95 ctermbg=NONE cterm=NONE
-highlight Function guifg=#a491ff guibg=NONE gui=NONE ctermfg=95 ctermbg=NONE cterm=NONE
+"highlight Function guifg=#a491ff guibg=NONE gui=NONE ctermfg=95 ctermbg=NONE cterm=NONE
 highlight Identifier guifg=#87afaf guibg=NONE gui=NONE ctermfg=109 ctermbg=NONE cterm=NONE
 highlight Statement guifg=#878787 guibg=NONE gui=NONE ctermfg=102 ctermbg=NONE cterm=NONE
 highlight Constant guifg=#af8787 guibg=NONE gui=NONE ctermfg=138 ctermbg=NONE cterm=NONE
