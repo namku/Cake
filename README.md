@@ -1,3 +1,4 @@
+{% comment %} 
 ![screenshot](https://user-images.githubusercontent.com/11221489/46834965-b52dce80-cd61-11e8-9461-ef54268d295f.png)
 
 :space_invader: Set Up
@@ -56,3 +57,4 @@ development version [here](https://github.com/AlessandroYorba/Alduin/tree/nightl
 [Sierra](https://github.com/AlessandroYorba/Sierra)<br>
 [Arcadia](https://github.com/AlessandroYorba/Arcadia)<br>
 [Breve](https://github.com/AlessandroYorba/Breve)<br>
+{% endcomment %}
