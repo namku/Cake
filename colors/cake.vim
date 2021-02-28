@@ -71,6 +71,10 @@ if !exists( "g:alduin_Shout_Become_Ethereal" )
 endif
 
 " COMMON COLORS AND SETTINGS
+highlight PreProc guifg=#dfaf87 guibg=NONE gui=NONE ctermfg=180 ctermbg=NONE cterm=NONE
+"highlight Function guifg=#875f5f guibg=NONE gui=NONE ctermfg=95 ctermbg=NONE cterm=NONE
+"#a491ff
+highlight Function guifg=#a491ff guibg=NONE gui=NONE ctermfg=95 ctermbg=NONE cterm=NONE
 
 " VIMSCRIPT
 highlight link vimAutoCmdSfxList Type
