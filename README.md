@@ -1,5 +1,7 @@
 ## Vim Theme ##
 
-```Plug 'namku/Cake'
+```
+Plug 'namku/Cake'
 
-```colorscheme cake
+colorscheme cake
+```
